@@ -7,7 +7,7 @@
 Инструменты:
 - Postman
 - Chrome DevTools
-- SQL (SQLite/PostgreSQL)
+- SQL 
 - Markdown / GitHub
 
 Структура репозитория:
