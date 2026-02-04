@@ -11,11 +11,10 @@
 - Markdown / GitHub
 
 Структура репозитория:
-- requirements/
-- checklists/
-- test_cases/
-- bug_reports/
-- api_testing/
-- sql/
-- devtools/
-- known_limitations.md
+- Требования
+- Чек-лист
+- Тест-кейсы
+- Баг-репорты
+- API тестирование 
+- SQL
+- DevTools
